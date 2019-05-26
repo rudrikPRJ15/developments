@@ -4,7 +4,3 @@ Bye adeu adeu
 commit1 master
 commit2 master
 
-<<<<<<< HEAD
-=======
-\f0\fs24 \cf0 Bye adeu}
->>>>>>> add CAT
