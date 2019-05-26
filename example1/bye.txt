@@ -7,6 +7,4 @@
 
 \f0\fs24 \cf0 Bye goodbye ade adios and others\
 modify 3\
-modify4\
-\
 }
