@@ -8,5 +8,6 @@ rectify br3 after reverting the merge
 create first commit in branch4
 
 commit a
+commit b
 
 
