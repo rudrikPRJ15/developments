@@ -1,16 +1,1 @@
-branch 5 will have these changes:
-refactor 1
-refactor 2 fix
-refactor 3
-
-refactor 7
-
-
-other changes in master
-
-fix bug in refactor 7
-
-change in master
-
-add more code in master A
-
+full refactor
