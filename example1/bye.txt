@@ -2,3 +2,4 @@ full refactor
 change in master 1
 change in master 2
 feature 1
+feature 2
