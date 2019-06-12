@@ -2,3 +2,4 @@ refactor master1
 refactor master2
 
 branchA ch1
+fix ch1
